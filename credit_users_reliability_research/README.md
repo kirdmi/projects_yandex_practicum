@@ -8,6 +8,8 @@
 3. Уровень дохода взаимосвязан с возвратом кредита в срок.
 4. Цели кредита взаимосвязаны с возвратом кредита в срок.
 
+Были определены некоторые закономерности, в результате чего были также сформированы определенные критерии, позволяющие судить о вероятности погашения кредита в срок.
+
 Библиотеки: pandas, matplotlib, numpy, seaborn
 ___
 **Description of the project**
@@ -19,5 +21,7 @@ As part of the task, it is required to test the following hypotheses:
 2. Marital status is interconnected with the repayment of the loan on time.
 3. The level of income is interconnected with the repayment of the loan on time.
 4. The objectives of the loan are interconnected with the repayment of the loan on time.
+
+Some regularities were identified, as a result of which certain criteria were also formed that make it possible to judge the probability of repaying a loan on time.
 
 Libraries: pandas, matplotlib, numpy, seaborn
