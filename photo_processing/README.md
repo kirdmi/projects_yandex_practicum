@@ -10,6 +10,8 @@
 
 В рамках проекта будет создана модель, позволяющая определить примерный возраст человека.
 
+В создании модели использовалась архитектура ResNET, однако слои "верхушки" были созданы самостоятельно. Модель достигла целевых метрик, соответственно может выполнять запрошенные функции.
+
 Библиотеки: tensorflow, numpy, matplotlib, pandas
 ___
 # Determining the age of buyers
@@ -23,5 +25,7 @@ As a result, it becomes possible:
 - It becomes possible to control the age limit for the sale of alcohol and tobacco-containing products.
 
 As part of the project, a model will be created to determine the approximate age of a person.
+
+The model was created using the ResNET architecture, but the "top" layers were created independently. The model has reached the target metrics, respectively, can perform the requested functions.
 
 Libraries: tensorflow, numpy, matplotlib, pandas
