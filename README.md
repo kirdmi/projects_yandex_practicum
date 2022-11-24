@@ -229,7 +229,7 @@ Data protection needs to be done in such a way that the quality of machine learn
 
 Libraries: pandas, seaborn, matplotlib, numpy, sklearn
 
-## 11. Определение стоимости автомобилей
+## 11. [Определение стоимости автомобилей](https://github.com/kirdmi/projects_yandex_practicum/tree/main/car_price_determination_model_building)
 
 В одном из сервисов по продаже автомобилей происходит разработка приложения, нацеленного на привлечение клиентов. 
 В данном приложении возможно узнать рыночную стоимость своего автомобился.
