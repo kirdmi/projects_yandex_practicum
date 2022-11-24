@@ -1,4 +1,4 @@
-## 1. Музыка
+## [Музыка](https://github.com/kirdmi/projects_yandex_practicum/tree/main/yandex_music_research)
 
 **Цель исследования** 
 
@@ -14,7 +14,7 @@
  
 Библиотеки: Pandas
 ___
-### Music
+### [Music](https://github.com/kirdmi/projects_yandex_practicum/tree/main/yandex_music_research)
 
 **Purpose of the study**
 
@@ -30,7 +30,7 @@ The study will take place in three stages:
    
 Libraries: Pandas
 
-## 2. Исследование надежности заемщиков.
+## [Исследование надежности заемщиков](https://github.com/kirdmi/projects_yandex_practicum/tree/main/credit_users_reliability_research)
 
 Кредитный отдел банка отправил задачу. Необходимо определить, влият семейное положение и количество детей клиента на факт погашения кредита в срок или нет.
 
@@ -42,7 +42,7 @@ Libraries: Pandas
 
 Библиотеки: pandas, matplotlib, numpy, seaborn
 ___
-### Research of reliability of borrowers.
+### [Research of reliability of borrowers](https://github.com/kirdmi/projects_yandex_practicum/tree/main/credit_users_reliability_research)
 
 The credit department of the bank sent the task. It is necessary to determine whether the marital status and the number of children of the client will affect the fact of repaying the loan on time or not.
 
@@ -54,7 +54,7 @@ As part of the task, it is required to test the following hypotheses:
 
 Libraries: pandas, matplotlib, numpy, seaborn
 
-## 3. Исследование объявлений о продаже квартир
+## [Исследование объявлений о продаже квартир](https://github.com/kirdmi/projects_yandex_practicum/tree/main/real_estate_market_research)
 
 Имеются данные сервиса Я.Недвижимости. Сервис является агрегатором объявлений о продаже квартир.
 
@@ -66,7 +66,7 @@ Libraries: pandas, matplotlib, numpy, seaborn
 
 Библиотеки: pandas, matplotlib, numpy
 ___
-### Study of ads for the sale of apartments
+### [Study of ads for the sale of apartments](https://github.com/kirdmi/projects_yandex_practicum/tree/main/real_estate_market_research)
 
 There is data from the Ya.Nedvizhimost service. The service is an aggregator of ads for the sale of apartments.
 
@@ -78,7 +78,7 @@ There are two types of data - entered by the user and obtained automatically bas
 
 Libraries: pandas, matplotlib, numpy
 
-## 4. Анализ тарифов
+## [Анализ тарифов](https://github.com/kirdmi/projects_yandex_practicum/tree/main/rate_plan_research)
 
 - Необходимо совершить предварительный анализ различных тарифов на выборке клиентов.
 - Доступны данные 500 пользователей за 2018 год.
@@ -92,7 +92,7 @@ Libraries: pandas, matplotlib, numpy
 Библиотеки: pandas, matplotlib, numpy, scipy
 ___
 
-### Analysis of tariffs
+### [Analysis of tariffs](https://github.com/kirdmi/projects_yandex_practicum/tree/main/rate_plan_research)
 
 - It is necessary to make a preliminary analysis of various tariffs on a sample of customers.
 - Data of 500 users for 2018 is available.
@@ -105,7 +105,7 @@ ___
 
 Libraries: pandas, matplotlib, numpy, scipy
 
-## 5. Определение возраста покупателей
+## [Определение возраста покупателей](https://github.com/kirdmi/projects_yandex_practicum/tree/main/photo_processing)
 
 Некий супермаркет вводит систему компьютерного зрения в ежедневный обиход для обработки фотографий клиентов. Снимки в прикассовой зоне позволяют определять возраст клиентов.
 
@@ -119,7 +119,7 @@ Libraries: pandas, matplotlib, numpy, scipy
 
 Библиотеки: tensorflow, numpy, matplotlib, pandas
 ___
-### Determining the age of buyers
+### [Determining the age of buyers](https://github.com/kirdmi/projects_yandex_practicum/tree/main/photo_processing)
 
 A supermarket introduces a computer vision system into daily use to process customer photos. Pictures in the checkout area allow you to determine the age of customers.
 
@@ -133,7 +133,7 @@ As part of the project, a model will be created to determine the approximate age
 
 Libraries: tensorflow, numpy, matplotlib, pandas
 
-## 6. Рекомендация тарифов
+## [Рекомендация тарифов](https://github.com/kirdmi/projects_yandex_practicum/tree/main/clients_classification)
 
 В доступе имеются данные о поведении клиентов, которые перешли на определенные тарифы. Необходимо создать модель для задач классификации, с помощью которой впоследствии можно производить выбор наиболее подходящего тарифа.
 
@@ -141,7 +141,7 @@ Libraries: tensorflow, numpy, matplotlib, pandas
 
 Библиотеки: pandas, matplotlib, numpy, sklearn
 ___
-### Tariff recommendation
+### [Tariff recommendation](https://github.com/kirdmi/projects_yandex_practicum/tree/main/clients_classification)
 
 Access has data on the behavior of customers who have switched to certain tariffs. It is necessary to create a model for classification tasks, with the help of which you can subsequently select the most appropriate tariff.
 
@@ -149,7 +149,7 @@ You need to build the model with the highest **accuracy** value. The minimum tar
 
 Libraries: pandas, matplotlib, numpy, sklearn
 
-## 7. Отток клиентов
+## [Отток клиентов](https://github.com/kirdmi/projects_yandex_practicum/tree/main/customer_outflow_prognosis)
 
 Из банка начался отток клиентов, имеющий ежемесячный характер. Несмотря на первоначально кажущийся малым объем, в результате данный процесс "ощутим". 
 
@@ -161,7 +161,7 @@ Libraries: pandas, matplotlib, numpy, sklearn
 
 Библиотеки: pandas, matplotlib, numpy, sklearn, seaborn, re
 ___
-### Customer churn
+### [Customer churn](https://github.com/kirdmi/projects_yandex_practicum/tree/main/customer_outflow_prognosis)
 
 From the bank began the outflow of customers, which has a monthly character. Despite the initially seemingly small volume, as a result, this process is “felt”.
 
@@ -173,7 +173,7 @@ You need to build a model with the largest value of **F1-measures**. The target 
 
 Libraries: pandas, matplotlib, numpy, sklearn, seaborn, re
 
-## 8. Выбор локации для скважины
+## [Выбор локации для скважины](https://github.com/kirdmi/projects_yandex_practicum/tree/main/oil_extraction_region_determination)
 
 Основная задача - принять решение о локализации потенциальной скважины.
 
@@ -183,7 +183,7 @@ Libraries: pandas, matplotlib, numpy, sklearn, seaborn, re
 
 Библиотеки: pandas, matplotlib, numpy, sklearn, seaborn, re
 ___
-### Choice of location for the well
+### [Choice of location for the well](https://github.com/kirdmi/projects_yandex_practicum/tree/main/oil_extraction_region_determination)
 
 The main task is to decide on the localization of a potential well.
 
@@ -193,7 +193,7 @@ It is necessary to build a machine learning model, with the help of which it wil
 
 Libraries: pandas, matplotlib, numpy, sklearn, seaborn, re
 
-## 9. Восстановление золота из руды
+## [Восстановление золота из руды](https://github.com/kirdmi/projects_yandex_practicum/tree/main/gold_clearing_research)
 
 Необходимо создать прототип модели машинного обучения для компании. Компания осуществляет разработку решений для повышения эффективности работы промышленных предприятих.
 
@@ -203,7 +203,7 @@ Libraries: pandas, matplotlib, numpy, sklearn, seaborn, re
 
 Библиотеки: pandas, matplotlib, numpy, sklearn, seaborn, re
 ___
-### Recovery of gold from ore
+### [Recovery of gold from ore](https://github.com/kirdmi/projects_yandex_practicum/tree/main/gold_clearing_research)
 
 You need to prototype a machine learning model for your company. The company develops solutions to improve the efficiency of industrial enterprises.
 
@@ -213,7 +213,7 @@ The model will potentially be an auxiliary tool in the optimization of productio
 
 Libraries: pandas, matplotlib, numpy, sklearn, seaborn, re
 
-## 10. Защита персональных данных клиентов
+## [Защита персональных данных клиентов](https://github.com/kirdmi/projects_yandex_practicum/tree/main/clients_data_security)
 
 Необходимо защитить персональные данные клиентов страховой компании. Нужно создать определенный метод преобразования, который не позволит ззлоумышленникам восстановить персональную информацию.
 
@@ -221,7 +221,7 @@ Libraries: pandas, matplotlib, numpy, sklearn, seaborn, re
 
 Библиотеки: pandas, seaborn, matplotlib, numpy, sklearn
 ___
-### Protection of personal data of customers
+### [Protection of personal data of customers](https://github.com/kirdmi/projects_yandex_practicum/tree/main/clients_data_security)
 
 It is necessary to protect the personal data of the clients of the insurance company. You need to create a specific conversion method that will not allow attackers to recover personal information.
 
@@ -229,7 +229,7 @@ Data protection needs to be done in such a way that the quality of machine learn
 
 Libraries: pandas, seaborn, matplotlib, numpy, sklearn
 
-## 11. [Определение стоимости автомобилей](https://github.com/kirdmi/projects_yandex_practicum/tree/main/car_price_determination_model_building)
+## [Определение стоимости автомобилей](https://github.com/kirdmi/projects_yandex_practicum/tree/main/car_price_determination_model_building)
 
 В одном из сервисов по продаже автомобилей происходит разработка приложения, нацеленного на привлечение клиентов. 
 В данном приложении возможно узнать рыночную стоимость своего автомобился.
@@ -244,7 +244,7 @@ Libraries: pandas, seaborn, matplotlib, numpy, sklearn
 
 Библиотеки: pandas, seaborn, matplotlib, numpy, sklearn, lightgbm
 ___
-### Determining the cost of cars
+### [Determining the cost of cars](https://github.com/kirdmi/projects_yandex_practicum/tree/main/car_price_determination_model_building)
 
 One of the car sales services is developing an application aimed at attracting customers.
 In this application, it is possible to find out the market value of your car.
@@ -259,7 +259,7 @@ It is important to pay attention to:
 
 Libraries: pandas, seaborn, matplotlib, numpy, sklearn, lightgbm
 
-## 12. Прогнозирование заказов такси
+## [Прогнозирование заказов такси](https://github.com/kirdmi/projects_yandex_practicum/tree/main/taxi_quantity_prediction)
 
 Компания из сферы услуг такси собрала данные о заказах такси в различных аэропортах. Для привлечения большего количества водителей в период пиковой нагрузки необходимо спрогнозировать количество заказов на последующий час.
 
@@ -267,7 +267,7 @@ Libraries: pandas, seaborn, matplotlib, numpy, sklearn, lightgbm
 
 Библиотеки: pandas, matplotlib, numpy, sklearn, statsmodels
 ___
-### Forecasting taxi orders
+### [Forecasting taxi orders](https://github.com/kirdmi/projects_yandex_practicum/tree/main/taxi_quantity_prediction)
 
 A taxi service company collected data on taxi bookings at various airports. To attract more drivers during the peak period, it is necessary to predict the number of orders for the next hour.
 
@@ -275,7 +275,7 @@ It is necessary to build a model that will allow such a prediction to be made.
 
 Libraries: pandas, matplotlib, numpy, sklearn, statsmodels
 
-## 13. Проект для интернет-магазина
+## [Проект для интернет-магазина](https://github.com/kirdmi/projects_yandex_practicum/tree/main/comments_classification_model_training)
 
 В рамках онлайн-магазина происходит запуск сервиса, с помощью которого клиенты могут дополнять описания товаров, а также их редактировать.
 
@@ -285,7 +285,7 @@ Libraries: pandas, matplotlib, numpy, sklearn, statsmodels
 
 Библиотеки: pandas, numpy, nltk, sklearn, lightgbm, pymystem3, spacy, re
 ___
-### Project for an online store
+### [Project for an online store](https://github.com/kirdmi/projects_yandex_practicum/tree/main/comments_classification_model_training)
 
 As part of the online store, a service is being launched, with the help of which customers can supplement product descriptions, as well as edit them.
 
