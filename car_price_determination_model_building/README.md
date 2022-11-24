@@ -11,6 +11,8 @@
 - скорость предсказания;
 - время обучения.
 
+В качестве наиболее оптимальной была определена модель - LGB.
+
 Библиотеки: pandas, seaborn, matplotlib, numpy, sklearn, lightgbm
 ___
 # Determining the cost of cars
@@ -25,5 +27,7 @@ It is important to pay attention to:
 - quality of prediction;
 - prediction speed;
 - studying time.
+
+The LGB model was identified as the most common.
 
 Libraries: pandas, seaborn, matplotlib, numpy, sklearn, lightgbm
