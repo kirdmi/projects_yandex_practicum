@@ -9,6 +9,8 @@
 - средняя выручка пользователей тарифов «Ультра» и «Смарт» различаются;
 - средняя выручка пользователей из Москвы отличается от выручки пользователей из других регионов.
 
+Гипотезы были проверены. Также были определены наиболее перспективные тарифы с точки зрения клиента (с минимальными переплатами) и с точки зрения компании (с нибольшей прибылью).
+
 Библиотеки: pandas, matplotlib, numpy, scipy
 ___
 
@@ -22,5 +24,7 @@ ___
 
 - the average revenue of users of the "Ultra" and "Smart" tariffs differ;
 - the average revenue of users from Moscow differs from the revenue of users from other regions.
+
+The hypotheses have been tested. The most promising tariffs were also determined from the point of view of the client (with minimal overpayments) and from the point of view of the company (with the lowest profit).
 
 Libraries: pandas, matplotlib, numpy, scipy
