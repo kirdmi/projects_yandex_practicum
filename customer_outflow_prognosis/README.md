@@ -8,6 +8,8 @@
 
 Нужно построить модель с наибольшим значением **F1-меры**. Целевое значение метрики - 0.59. Для улучшения результатов требуется дополнительное измерение с помощью **AUC-ROC**.
 
+Был произведен экспериментальный подбор моделей, в том числе апсэмплинг, даунсэмплинг. В результате наиболее удачным сочетанием модели и метода стал - RandomForest и апсемплинг.
+
 Источник данных: [https://www.kaggle.com/barelydedicated/bank-customer-churn-modeling](https://www.kaggle.com/barelydedicated/bank-customer-churn-modeling)
 
 Библиотеки: pandas, matplotlib, numpy, sklearn, seaborn, re
@@ -21,6 +23,8 @@ It was decided that it was cheaper to retain existing customers than to spend mo
 It is necessary to predict the potential for a client to leave. The data includes historical information about customer behavior.
 
 You need to build a model with the largest value of **F1-measures**. The target value of the metric is 0.59. Additional measurement with **AUC-ROC** is required to improve results
+
+An experimental selection of models was made, including upsampling, downsampling. As a result, the most successful combination of model and method was RandomForest and upsampling.
 
 Data Source: [https://www.kaggle.com/barelydedicated/bank-customer-churn-modeling](https://www.kaggle.com/barelydedicated/bank-customer-churn-modeling)
 
