@@ -6,6 +6,8 @@
 
 Значение метрики качества *F1* должно быть не меньше 0.75.
 
+Экспериментально была подобрана модель - LinearRegression, показавшая целевые значения метрики.
+
 Библиотеки: pandas, numpy, nltk, sklearn, lightgbm, pymystem3, spacy, re
 ___
 # Project for an online store
@@ -15,5 +17,7 @@ As part of the online store, a service is being launched, with the help of which
 It is necessary to create a tool that allows you to search for toxic comments and send them for moderation.
 
 The value of the quality metric *F1* must be at least 0.75.
+
+The model was experimentally selected - LinearRegression, which showed the target values of the metric.
 
 Libraries: pandas, numpy, nltk, sklearn, lightgbm, pymystem3, spacy, re
