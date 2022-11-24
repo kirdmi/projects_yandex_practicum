@@ -14,6 +14,8 @@ ___
  2. Предобработка данных.
  3. Проверка гипотез.
  
+Была проведена проверка обозначенных гипотез. Также был произведен анализ данных, было явно определено, что музыкальное поведение в двух столицах рознится.
+ 
 Библиотеки: Pandas
 ___
 **Purpose of the study**
@@ -27,5 +29,7 @@ The study will take place in three stages:
    1. Data review.
    2. Data preprocessing.
    3. Testing the hypothesis.
+   
+The identified hypotheses were tested. Data analysis was also carried out, it was clearly determined that the musical behavior in the two capitals differs.
    
 Libraries: Pandas
